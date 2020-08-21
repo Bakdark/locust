@@ -1,2 +1,2 @@
 # locust
-Locust docker-ready setup for healschecks or simple load testing
+Locust docker-ready setup for healthchecks or simple load testing
